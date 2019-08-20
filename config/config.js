@@ -4,7 +4,7 @@ module.exports = {
     apiHost:process.env.APIHOST || 'localhost',
     apiPort:process.env.APIPORT || '8791',
     dbHost:"localhost",
-    dbPort:"27017",
+    dbPort:"37017",
     app:{
         title:"personal blog",
         description:'Lex\'s personal blog demo',
